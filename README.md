@@ -1,0 +1,2 @@
+## AssetsLibrary のサンプルです
+
